@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.4.1-alpine
 MAINTAINER Kuntaro Ishiyama <kuntaro1480@gmail.com>
 
 COPY . .
