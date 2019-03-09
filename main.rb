@@ -10,4 +10,3 @@ end
 get '/heartbeat' do
   erb :index
 end
-

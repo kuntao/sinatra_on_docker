@@ -12,4 +12,3 @@ RUN set -x \
 EXPOSE 80
 ENV RACK_ENV production
 CMD ruby main.rb
-
