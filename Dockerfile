@@ -1,5 +1,5 @@
 FROM ruby:2.6.1-alpine
-MAINTAINER Kuntaro Ishiyama <kuntaro1480@gmail.com>
+LABEL mantainer="kuntao <kuntaro1480@gmail.com>"
 
 COPY . .
 RUN set -x \
