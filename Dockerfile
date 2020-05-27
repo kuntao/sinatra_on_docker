@@ -1,4 +1,4 @@
-FROM ruby:2.6.1-alpine
+FROM ruby:2.7-alpine
 LABEL mantainer="kuntao <kuntaro1480@gmail.com>"
 
 COPY . .
